@@ -10,6 +10,7 @@ public class MyClassTest {
         var x = new MyClassTest(5);
 
         System.out.println("example 1");
+        System.out.println("example 2");
 
 
 
